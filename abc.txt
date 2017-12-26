@@ -1,6 +1,10 @@
 aaaaa
 bbbbb
+<<<<<<< HEAD
 ccc123
+=======
+ccc456
+>>>>>>> quickfix
 
 
 eeeeeeeeeeeeeeeeeeeeeeeeee
